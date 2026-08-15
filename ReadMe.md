@@ -4,7 +4,7 @@
 
 ## 🚀 Python Developer | 📊 Data Science | 🤖 AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Generative+AI+Explorer;Building+Projects+Every+Day+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+&+Data+Science+Student;Python+Learner;Data+Science+Enthusiast;Machine+Learning+Explorer;Generative+AI+Explorer;Building+Projects+%F0%9F%9A%80" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science Student  
+🎓 Artificial Intelligence & Data Science Student  
 🐍 Python Developer in progress  
 📊 Interested in Data Science & Machine Learning  
 🤖 Exploring Generative AI, LLMs & RAG  
@@ -28,7 +28,7 @@
 ### 💻 Languages & Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -147,19 +147,19 @@ During my internship/training, I explored:
 
 ```text
 🐍 Python
-████████████████░░░░
+██████████████░░░░░░░
 
 🧠 DSA
-████████░░░░░░░░░░░░
+████░░░░░░░░░░░░░░░░
 
 🗄️ SQL
-██████████████░░░░░░
+███████████░░░░░░░░░
 
 📊 Data Science
-██████████████░░░░░░
+███████████░░░░░░░░░
 
 🤖 Machine Learning
-████████████░░░░░░░░
+████████░░░░░░░░░░░░
 
 🧠 Generative AI
-███████████░░░░░░░░░
+█████░░░░░░░░░░░░░░░
