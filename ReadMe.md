@@ -4,7 +4,7 @@
 
 ## 🚀 AI & Data Science Student | 🐍 Python learner | 🤖 AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+Learner;Data+Science+Enthusiast;Machine+Learning+Explorer;Generative+AI+Explorer;Building+Projects+Every+Day+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Learner;Data+Science+Enthusiast;Machine+Learning+Explorer;Generative+AI+Explorer;Building+Projects+Every+Day+%F0%9F%9A%80" />
 
 </div>
 
