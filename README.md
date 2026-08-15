@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balaji
 
-### 🎓 Computer Science Student | 🐍 Python Developer | 📊 Data & AI/ML Enthusiast
+### 🎓 Artificial Intelligence & Data Science Student | 🐍 Python learner | 📊 Data & AI/ML Enthusiast
 
 I'm a student passionate about building practical projects with **Python, Data Science, Machine Learning, and Generative AI**.
 
@@ -25,8 +25,8 @@ I'm currently focused on strengthening my programming fundamentals, developing r
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 Data & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,9 +55,9 @@ Machine Learning classification project using the Titanic dataset.
 ---
 
 ### 🌐 Student Registration Form
-Responsive student registration form built while learning web development fundamentals.
+Responsive frontend student registration form built while learning web development fundamentals.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS 
 
 ---
 
