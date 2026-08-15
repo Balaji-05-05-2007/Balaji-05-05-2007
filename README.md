@@ -1,96 +1,164 @@
-# 👋 Hi, I'm Balaji
+# 👋 Hi, I'm Balaji!
 
-### 🎓 Artificial Intelligence & Data Science Student | 🐍 Python learner | 📊 Data & AI/ML Enthusiast
+<div align="center">
 
-I'm a student passionate about building practical projects with **Python, Data Science, Machine Learning, and Generative AI**.
+## 🚀 AI & Data Science Student | 🐍 Python learner | 🤖 AI/ML Enthusiast
 
-I'm currently focused on strengthening my programming fundamentals, developing real-world projects, and preparing for software and data-oriented placements.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Learner;Data+Science+Enthusiast;Machine+Learning+Explorer;Generative+AI+Explorer;Building+Projects+Every+Day+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Undergraduate Computer Science Student
-- 🐍 Currently improving my **Python & DSA** skills
-- 📊 Interested in **Data Science & Machine Learning**
-- 🤖 Exploring **Generative AI, LLMs & RAG**
-- 🔧 Building projects to strengthen my development skills
-- 📚 Currently preparing for **placements**
-- 🎯 Goal: Become a strong Software / Data / AI professional
+🎓 **Artificial Intelligence & Data Science Student**  
+🐍 Python Developer in progress  
+📊 Interested in Data Science & Machine Learning  
+🤖 Exploring Generative AI, LLMs & RAG  
+💻 Building practical projects  
+🚀 Preparing for software, data & AI-oriented placements  
 
+> **"Learn → Build → Improve → Repeat."**
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages & Development
 
-### 📊 Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
 
 ### 🤖 Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-## 📌 Featured Projects
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-### 🚢 Titanic Survival Prediction
-Machine Learning classification project using the Titanic dataset.
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • EDA
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### 🌐 Student Registration Form
-Responsive frontend student registration form built while learning web development fundamentals.
+# 🚀 Featured Projects
 
-**Tech:** HTML • CSS 
+## 🚢 Titanic Survival Prediction
+
+📌 Machine Learning classification project using the Titanic dataset.
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+**What I worked on**
+
+- Data cleaning
+- Missing value handling
+- Exploratory Data Analysis
+- Feature encoding
+- Logistic Regression
+- Random Forest
+- Model evaluation
 
 ---
 
-### 🤖 Generative AI & LLM Projects
-Exploring LLM applications, prompt engineering, APIs, RAG, and AI-powered prototypes.
+## 🌐 Student Registration Form
 
-**Tech:** Python • LangChain • Gemini API • RAG
+📌 Responsive student registration form created while learning web development.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+**Features**
+
+- Student details
+- Date of birth
+- Radio buttons
+- Checkboxes
+- Text fields
+- Responsive styling
 
 ---
 
-## 📚 Currently Learning
+## 🤖 Generative AI & LLM Projects
+
+📌 Exploring practical applications of Generative AI.
+
+**Technologies**
+
+`Python` `LangChain` `Gemini API` `RAG` `LLMs`
+
+**Exploring**
+
+- Prompt Engineering
+- LLM applications
+- API integration
+- Retrieval-Augmented Generation
+- AI prototypes
+
+---
+
+# 💼 Internship
+
+## 🤖 GenAI, LLMs & Prototyping Intern
+
+**digri.ai — 2026**
+
+During my internship/training, I explored:
+
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- APIs
+- FastAPI
+- Swagger
+- LangChain
+- Google Gemini API
+- LM Studio
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# 📚 Currently Learning
 
 ```text
-Python
-  ├── Advanced Python
-  ├── OOP
-  ├── File Handling
-  └── Exception Handling
+🐍 Python
+██████████████░░░░░░░
 
-DSA
-  ├── Arrays & Strings
-  ├── Hashing
-  ├── Stack & Queue
-  └── Problem Solving
+🧠 DSA
+████░░░░░░░░░░░░░░░░
 
-Data
-  ├── SQL
-  ├── Pandas
-  ├── NumPy
-  └── Data Visualization
+🗄️ SQL
+███████████░░░░░░░░░
 
-AI/ML
-  ├── Machine Learning
-  ├── Generative AI
-  ├── LLMs
-  └── RAG
+📊 Data Science
+███████████░░░░░░░░░
+
+🤖 Machine Learning
+████████░░░░░░░░░░░░
+
+🧠 Generative AI
+█████░░░░░░░░░░░░░░░
