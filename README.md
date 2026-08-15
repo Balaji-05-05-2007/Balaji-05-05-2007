@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,python&perline=8&theme=dark" alt="Selected language and technology logos" />
+  <img src="https://skillicons.dev/icons?i=jupyter,html,css,python&perline=8&theme=dark" alt="Selected language and technology logos" />
 </p>
 
 ## 📊 GitHub Stats
